@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=heater_lpf.stp
+Dependencies=
+[Options]
+ActiveProject=heater_lpf
+ActiveConfig=Debug
+AddSortedElements=1
